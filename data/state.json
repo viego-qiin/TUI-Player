@@ -1,0 +1,1700 @@
+{
+  "music_dir": "e:/music",
+  "source_name": "全部音乐",
+  "current_index": 243,
+  "play_mode": 1,
+  "all_songs": [
+    {
+      "file_path": "e:\\music\\[Hi-Res][230412]TVアニメ『推しの子』OP主题歌「アイドル」／YOASOBI[96kHz／24bit][FLAC]\\001-アイドル.flac",
+      "file_name": "001-アイドル.flac",
+      "title": "001-アイドル",
+      "size": 125951532
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\001-青春コンプレックス.flac",
+      "file_name": "001-青春コンプレックス.flac",
+      "title": "001-青春コンプレックス",
+      "size": 48321648
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\002-ひとりぼっち東京.flac",
+      "file_name": "002-ひとりぼっち東京.flac",
+      "title": "002-ひとりぼっち東京",
+      "size": 55828154
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\003-Distortion!!.flac",
+      "file_name": "003-Distortion!!.flac",
+      "title": "003-Distortion!!",
+      "size": 48485941
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\004-ひみつ基地.flac",
+      "file_name": "004-ひみつ基地.flac",
+      "title": "004-ひみつ基地",
+      "size": 55222580
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\006-ラブソングが歌えない.flac",
+      "file_name": "006-ラブソングが歌えない.flac",
+      "title": "006-ラブソングが歌えない",
+      "size": 44773743
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\007-あのバンド.flac",
+      "file_name": "007-あのバンド.flac",
+      "title": "007-あのバンド",
+      "size": 50441502
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\008-カラカラ.flac",
+      "file_name": "008-カラカラ.flac",
+      "title": "008-カラカラ",
+      "size": 61969569
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\009-小さな海.flac",
+      "file_name": "009-小さな海.flac",
+      "title": "009-小さな海",
+      "size": 49796923
+    },
+    {
+      "file_path": "e:\\music\\[2023.04.26] TVアニメ「ぼっち・ざ・ろっく！」第10話挿入歌「ワタシダケユウレイ」／SICK HACK [FLAC]\\01. ワタシダケユウレイ.flac",
+      "file_name": "01. ワタシダケユウレイ.flac",
+      "title": "01. ワタシダケユウレイ",
+      "size": 25755285
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\01. 迷星叫.flac",
+      "file_name": "01. 迷星叫.flac",
+      "title": "01. 迷星叫",
+      "size": 77912801
+    },
+    {
+      "file_path": "e:\\music\\01. 雑踏、僕らの街.flac",
+      "file_name": "01. 雑踏、僕らの街.flac",
+      "title": "01. 雑踏、僕らの街",
+      "size": 24026576
+    },
+    {
+      "file_path": "e:\\music\\[Hi-Res][231118]『ポケモンSV』発売1周年記念楽曲「Biri-Biri」YOASOBI[96kHz／24bit][FLAC]\\01.Biri-Biri.flac",
+      "file_name": "01.Biri-Biri.flac",
+      "title": "01.Biri-Biri",
+      "size": 86673222
+    },
+    {
+      "file_path": "e:\\music\\01.処救生.flac",
+      "file_name": "01.処救生.flac",
+      "title": "01.処救生",
+      "size": 94988469
+    },
+    {
+      "file_path": "e:\\music\\01.砂寸奏.flac",
+      "file_name": "01.砂寸奏.flac",
+      "title": "01.砂寸奏",
+      "size": 99302803
+    },
+    {
+      "file_path": "e:\\music\\[Hi-Res][221001]TVアニメ『機動戦士ガンダム 水星の魔女』OP主题歌「祝福」／YOASOBI[96kHz／24bit][FLAC]\\01.祝福.flac",
+      "file_name": "01.祝福.flac",
+      "title": "01.祝福",
+      "size": 88847923
+    },
+    {
+      "file_path": "e:\\music\\Reol\\reol\\01.第六感.flac",
+      "file_name": "01.第六感.flac",
+      "title": "01.第六感",
+      "size": 111320991
+    },
+    {
+      "file_path": "e:\\music\\01.輪符雨.flac",
+      "file_name": "01.輪符雨.flac",
+      "title": "01.輪符雨",
+      "size": 88831203
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\010-なにが悪い.flac",
+      "file_name": "010-なにが悪い.flac",
+      "title": "010-なにが悪い",
+      "size": 53242986
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\011-忘れてやらない.flac",
+      "file_name": "011-忘れてやらない.flac",
+      "title": "011-忘れてやらない",
+      "size": 53779314
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\012-星座になれたら.flac",
+      "file_name": "012-星座になれたら.flac",
+      "title": "012-星座になれたら",
+      "size": 61406526
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\013-フラッシュバッカー.flac",
+      "file_name": "013-フラッシュバッカー.flac",
+      "title": "013-フラッシュバッカー",
+      "size": 62169897
+    },
+    {
+      "file_path": "e:\\music\\[MORA自购][Hi-Res][121225]TVアニメ『ぼっち・ざ・ろっく!』フルアルバム「結束バンド」[48kHz／24bit][FLAC]\\FLAC\\014-転がる岩、君に朝が降る.flac",
+      "file_name": "014-転がる岩、君に朝が降る.flac",
+      "title": "014-転がる岩、君に朝が降る",
+      "size": 63109789
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\02. 壱雫空.flac",
+      "file_name": "02. 壱雫空.flac",
+      "title": "02. 壱雫空",
+      "size": 74440217
+    },
+    {
+      "file_path": "e:\\music\\02. 空の箱.flac",
+      "file_name": "02. 空の箱.flac",
+      "title": "02. 空の箱",
+      "size": 23406816
+    },
+    {
+      "file_path": "e:\\music\\[Hi-Res][231118]『ポケモンSV』発売1周年記念楽曲「Biri-Biri」YOASOBI[96kHz／24bit][FLAC]\\02.Biri-Biri (English Version).flac",
+      "file_name": "02.Biri-Biri (English Version).flac",
+      "title": "02.Biri-Biri (English Version)",
+      "size": 86500933
+    },
+    {
+      "file_path": "e:\\music\\02.回層浮.flac",
+      "file_name": "02.回層浮.flac",
+      "title": "02.回層浮",
+      "size": 114155565
+    },
+    {
+      "file_path": "e:\\music\\03. Mine Mine.flac",
+      "file_name": "03. Mine Mine.flac",
+      "title": "03. Mine Mine",
+      "size": 53603052
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\03. 碧天伴走.flac",
+      "file_name": "03. 碧天伴走.flac",
+      "title": "03. 碧天伴走",
+      "size": 84715629
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\04. 影色舞.flac",
+      "file_name": "04. 影色舞.flac",
+      "title": "04. 影色舞",
+      "size": 82919169
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\05. 歌いましょう鳴らしましょう.flac",
+      "file_name": "05. 歌いましょう鳴らしましょう.flac",
+      "title": "05. 歌いましょう鳴らしましょう",
+      "size": 69344773
+    },
+    {
+      "file_path": "e:\\music\\06. 不该 (feat. 张惠妹).flac",
+      "file_name": "06. 不该 (feat. 张惠妹).flac",
+      "title": "06. 不该 (feat. 张惠妹)",
+      "size": 103444458
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\06. 潜在表明.flac",
+      "file_name": "06. 潜在表明.flac",
+      "title": "06. 潜在表明",
+      "size": 100830744
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\07. 音一会.flac",
+      "file_name": "07. 音一会.flac",
+      "title": "07. 音一会",
+      "size": 112621131
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\08. 春日影 (MyGO!!!!! Ver.).flac",
+      "file_name": "08. 春日影 (MyGO!!!!! Ver.).flac",
+      "title": "08. 春日影 (MyGO!!!!! Ver.)",
+      "size": 94312404
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\09. 詩超絆.flac",
+      "file_name": "09. 詩超絆.flac",
+      "title": "09. 詩超絆",
+      "size": 86578584
+    },
+    {
+      "file_path": "e:\\music\\1 - 陳奕迅 - 塵大師.flac",
+      "file_name": "1 - 陳奕迅 - 塵大師.flac",
+      "title": "1 - 陳奕迅 - 塵大師",
+      "size": 59382920
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\10. 迷路日々.flac",
+      "file_name": "10. 迷路日々.flac",
+      "title": "10. 迷路日々",
+      "size": 87595842
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\11. 無路矢.flac",
+      "file_name": "11. 無路矢.flac",
+      "title": "11. 無路矢",
+      "size": 85473235
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\12. 名無声.flac",
+      "file_name": "12. 名無声.flac",
+      "title": "12. 名無声",
+      "size": 100741689
+    },
+    {
+      "file_path": "e:\\music\\[231101] BanG Dream! MyGO!!!!! 1stアルバム「迷跡波」FLAC+BK\\13. 栞.flac",
+      "file_name": "13. 栞.flac",
+      "title": "13. 栞",
+      "size": 97122416
+    },
+    {
+      "file_path": "e:\\music\\9公主-后弦-9公主.mp3",
+      "file_name": "9公主-后弦-9公主.mp3",
+      "title": "9公主-后弦-9公主",
+      "size": 10927322
+    },
+    {
+      "file_path": "e:\\music\\AAA-Climax Jump.flac",
+      "file_name": "AAA-Climax Jump.flac",
+      "title": "AAA-Climax Jump",
+      "size": 33547954
+    },
+    {
+      "file_path": "e:\\music\\ABSOLUTE CASTAWAY - Arco-Iris.mp3",
+      "file_name": "ABSOLUTE CASTAWAY - Arco-Iris.mp3",
+      "title": "ABSOLUTE CASTAWAY - Arco-Iris",
+      "size": 7295826
+    },
+    {
+      "file_path": "e:\\music\\Against the Current - Legends Never Die(2).mp3",
+      "file_name": "Against the Current - Legends Never Die(2).mp3",
+      "title": "Against the Current - Legends Never Die(2)",
+      "size": 9706748
+    },
+    {
+      "file_path": "e:\\music\\Agnete Kjolsund - Get Jinxed.mp3",
+      "file_name": "Agnete Kjolsund - Get Jinxed.mp3",
+      "title": "Agnete Kjolsund - Get Jinxed",
+      "size": 6300881
+    },
+    {
+      "file_path": "e:\\music\\All Time Low - Kids in the Dark.flac",
+      "file_name": "All Time Low - Kids in the Dark.flac",
+      "title": "All Time Low - Kids in the Dark",
+      "size": 29032533
+    },
+    {
+      "file_path": "e:\\music\\Ayasa绚沙 - 告白の夜.flac",
+      "file_name": "Ayasa绚沙 - 告白の夜.flac",
+      "title": "Ayasa绚沙 - 告白の夜",
+      "size": 33356780
+    },
+    {
+      "file_path": "e:\\music\\Beyond-逝去日子 (电视剧《淘气双子星》主题曲).flac",
+      "file_name": "Beyond-逝去日子 (电视剧《淘气双子星》主题曲).flac",
+      "title": "Beyond-逝去日子 (电视剧《淘气双子星》主题曲)",
+      "size": 30035054
+    },
+    {
+      "file_path": "e:\\music\\CHOSEN SOLDIER-Issa.flac",
+      "file_name": "CHOSEN SOLDIER-Issa.flac",
+      "title": "CHOSEN SOLDIER-Issa",
+      "size": 29420911
+    },
+    {
+      "file_path": "e:\\music\\CRITTY - 不谓侠（Cover 萧忆情Alex）.mp3",
+      "file_name": "CRITTY - 不谓侠（Cover 萧忆情Alex）.mp3",
+      "title": "CRITTY - 不谓侠（Cover 萧忆情Alex）",
+      "size": 10728810
+    },
+    {
+      "file_path": "e:\\music\\EVO＋ - ［A］ddiction.flac",
+      "file_name": "EVO＋ - ［A］ddiction.flac",
+      "title": "EVO＋ - ［A］ddiction",
+      "size": 28054041
+    },
+    {
+      "file_path": "e:\\music\\EXCITE-三浦大知.flac",
+      "file_name": "EXCITE-三浦大知.flac",
+      "title": "EXCITE-三浦大知",
+      "size": 25376215
+    },
+    {
+      "file_path": "e:\\music\\Edouard Brenneisen 英雄联盟 - Pantheon,the Unbreakable Spear.mp3",
+      "file_name": "Edouard Brenneisen 英雄联盟 - Pantheon,the Unbreakable Spear.mp3",
+      "title": "Edouard Brenneisen 英雄联盟 - Pantheon,the Unbreakable Spear",
+      "size": 8779719
+    },
+    {
+      "file_path": "e:\\music\\Ella Eyre - Typical Me.mp3",
+      "file_name": "Ella Eyre - Typical Me.mp3",
+      "title": "Ella Eyre - Typical Me",
+      "size": 7746952
+    },
+    {
+      "file_path": "e:\\music\\Fall Out Boy - Immortals.mp3",
+      "file_name": "Fall Out Boy - Immortals.mp3",
+      "title": "Fall Out Boy - Immortals",
+      "size": 7725542
+    },
+    {
+      "file_path": "e:\\music\\Falling In Reverse - It's Over When It's Over.flac",
+      "file_name": "Falling In Reverse - It's Over When It's Over.flac",
+      "title": "Falling In Reverse - It's Over When It's Over",
+      "size": 33439237
+    },
+    {
+      "file_path": "e:\\music\\HYE SUNG - Sad.mp3",
+      "file_name": "HYE SUNG - Sad.mp3",
+      "title": "HYE SUNG - Sad",
+      "size": 8154986
+    },
+    {
+      "file_path": "e:\\music\\Halsey - Gasoline.FLAC",
+      "file_name": "Halsey - Gasoline.FLAC",
+      "title": "Halsey - Gasoline.FLAC",
+      "size": 21666778
+    },
+    {
+      "file_path": "e:\\music\\Harp＋y 4 - 全力スタートライン！.flac",
+      "file_name": "Harp＋y 4 - 全力スタートライン！.flac",
+      "title": "Harp＋y 4 - 全力スタートライン！",
+      "size": 36931181
+    },
+    {
+      "file_path": "e:\\music\\Hawk Nelson - Sold Out.mp3",
+      "file_name": "Hawk Nelson - Sold Out.mp3",
+      "title": "Hawk Nelson - Sold Out",
+      "size": 8587849
+    },
+    {
+      "file_path": "e:\\music\\ISSA - JustiΦ’S.flac",
+      "file_name": "ISSA - JustiΦ’S.flac",
+      "title": "ISSA - JustiΦ’S",
+      "size": 32526819
+    },
+    {
+      "file_path": "e:\\music\\Imagine Dragons-Warriors.flac",
+      "file_name": "Imagine Dragons-Warriors.flac",
+      "title": "Imagine Dragons-Warriors",
+      "size": 20771822
+    },
+    {
+      "file_path": "e:\\music\\Issa-CHOSEN SOLDIER.flac",
+      "file_name": "Issa-CHOSEN SOLDIER.flac",
+      "title": "Issa-CHOSEN SOLDIER",
+      "size": 29612820
+    },
+    {
+      "file_path": "e:\\music\\KOKIA - EXEC_COSMOFLIPS ..flac",
+      "file_name": "KOKIA - EXEC_COSMOFLIPS ..flac",
+      "title": "KOKIA - EXEC_COSMOFLIPS .",
+      "size": 26476791
+    },
+    {
+      "file_path": "e:\\music\\Kizuna AI - Sky High.flac",
+      "file_name": "Kizuna AI - Sky High.flac",
+      "title": "Kizuna AI - Sky High",
+      "size": 29590310
+    },
+    {
+      "file_path": "e:\\music\\Kizuna AI - future base.FLAC",
+      "file_name": "Kizuna AI - future base.FLAC",
+      "title": "Kizuna AI - future base.FLAC",
+      "size": 22852898
+    },
+    {
+      "file_path": "e:\\music\\Kizuna AI 中田ヤスタカ - AIAIAI.FLAC",
+      "file_name": "Kizuna AI 中田ヤスタカ - AIAIAI.FLAC",
+      "title": "Kizuna AI 中田ヤスタカ - AIAIAI.FLAC",
+      "size": 27457385
+    },
+    {
+      "file_path": "e:\\music\\Krewella Diskord - Beggars.mp3",
+      "file_name": "Krewella Diskord - Beggars.mp3",
+      "title": "Krewella Diskord - Beggars",
+      "size": 9188635
+    },
+    {
+      "file_path": "e:\\music\\KrewellaDiskord-Beggars.flac",
+      "file_name": "KrewellaDiskord-Beggars.flac",
+      "title": "KrewellaDiskord-Beggars",
+      "size": 32468158
+    },
+    {
+      "file_path": "e:\\music\\Linkin Park-In The End.flac",
+      "file_name": "Linkin Park-In The End.flac",
+      "title": "Linkin Park-In The End",
+      "size": 26077404
+    },
+    {
+      "file_path": "e:\\music\\Loïc Nottet - Mud Blood.flac",
+      "file_name": "Loïc Nottet - Mud Blood.flac",
+      "title": "Loïc Nottet - Mud Blood",
+      "size": 24321857
+    },
+    {
+      "file_path": "e:\\music\\MARiA - daze.flac",
+      "file_name": "MARiA - daze.flac",
+      "title": "MARiA - daze",
+      "size": 30697683
+    },
+    {
+      "file_path": "e:\\music\\MARiA - ブリキノダンス.flac",
+      "file_name": "MARiA - ブリキノダンス.flac",
+      "title": "MARiA - ブリキノダンス",
+      "size": 29784374
+    },
+    {
+      "file_path": "e:\\music\\MONKEY MAJIK - Headlight.flac",
+      "file_name": "MONKEY MAJIK - Headlight.flac",
+      "title": "MONKEY MAJIK - Headlight",
+      "size": 38755276
+    },
+    {
+      "file_path": "e:\\music\\Madison Beer (G)I-DLE Jaira Burns - POP STARS.flac",
+      "file_name": "Madison Beer (G)I-DLE Jaira Burns - POP STARS.flac",
+      "title": "Madison Beer (G)I-DLE Jaira Burns - POP STARS",
+      "size": 27960027
+    },
+    {
+      "file_path": "e:\\music\\Modern Talking - Brother Louie.mp3",
+      "file_name": "Modern Talking - Brother Louie.mp3",
+      "title": "Modern Talking - Brother Louie",
+      "size": 9040477
+    },
+    {
+      "file_path": "e:\\music\\Nickelback - If Everyone Cared.mp3",
+      "file_name": "Nickelback - If Everyone Cared.mp3",
+      "title": "Nickelback - If Everyone Cared",
+      "size": 8862527
+    },
+    {
+      "file_path": "e:\\music\\Nickelback-Far Away.flac",
+      "file_name": "Nickelback-Far Away.flac",
+      "title": "Nickelback-Far Away",
+      "size": 32055906
+    },
+    {
+      "file_path": "e:\\music\\Nickelback-Gotta Be Somebody.flac",
+      "file_name": "Nickelback-Gotta Be Somebody.flac",
+      "title": "Nickelback-Gotta Be Somebody",
+      "size": 32473138
+    },
+    {
+      "file_path": "e:\\music\\PANDORA Beverly - Be The One.FLAC",
+      "file_name": "PANDORA Beverly - Be The One.FLAC",
+      "title": "PANDORA Beverly - Be The One.FLAC",
+      "size": 31337642
+    },
+    {
+      "file_path": "e:\\music\\REOL - 404 not found.flac",
+      "file_name": "REOL - 404 not found.flac",
+      "title": "REOL - 404 not found",
+      "size": 36198946
+    },
+    {
+      "file_path": "e:\\music\\Reol - MR.TAXI.mp3",
+      "file_name": "Reol - MR.TAXI.mp3",
+      "title": "Reol - MR.TAXI",
+      "size": 8602389
+    },
+    {
+      "file_path": "e:\\music\\Reol ギガP - No title.FLAC",
+      "file_name": "Reol ギガP - No title.FLAC",
+      "title": "Reol ギガP - No title.FLAC",
+      "size": 34754016
+    },
+    {
+      "file_path": "e:\\music\\Reol ギガP - drop pop candy.FLAC",
+      "file_name": "Reol ギガP - drop pop candy.FLAC",
+      "title": "Reol ギガP - drop pop candy.FLAC",
+      "size": 33632000
+    },
+    {
+      "file_path": "e:\\music\\Reol-medemede.flac",
+      "file_name": "Reol-medemede.flac",
+      "title": "Reol-medemede",
+      "size": 28643667
+    },
+    {
+      "file_path": "e:\\music\\Reol-ラ・タタン(沙丁鱼).mp3",
+      "file_name": "Reol-ラ・タタン(沙丁鱼).mp3",
+      "title": "Reol-ラ・タタン(沙丁鱼)",
+      "size": 8974459
+    },
+    {
+      "file_path": "e:\\music\\Rurutia-愛し子よ (亲爱的宝贝).flac",
+      "file_name": "Rurutia-愛し子よ (亲爱的宝贝).flac",
+      "title": "Rurutia-愛し子よ (亲爱的宝贝)",
+      "size": 26057458
+    },
+    {
+      "file_path": "e:\\music\\Samantha Jade - Soldier.mp3",
+      "file_name": "Samantha Jade - Soldier.mp3",
+      "title": "Samantha Jade - Soldier",
+      "size": 8182708
+    },
+    {
+      "file_path": "e:\\music\\Shuta Sueyoshi ISSA - Over ”Quartzer”.flac",
+      "file_name": "Shuta Sueyoshi ISSA - Over ”Quartzer”.flac",
+      "title": "Shuta Sueyoshi ISSA - Over ”Quartzer”",
+      "size": 32864731
+    },
+    {
+      "file_path": "e:\\music\\T.M.RevolutionJ-REAL×EYEZ (电视剧《假面骑士Zero-One》主题曲).mp3",
+      "file_name": "T.M.RevolutionJ-REAL×EYEZ (电视剧《假面骑士Zero-One》主题曲).mp3",
+      "title": "T.M.RevolutionJ-REAL×EYEZ (电视剧《假面骑士Zero-One》主题曲)",
+      "size": 9130663
+    },
+    {
+      "file_path": "e:\\music\\The Script-Superheroes.flac",
+      "file_name": "The Script-Superheroes.flac",
+      "title": "The Script-Superheroes",
+      "size": 31255506
+    },
+    {
+      "file_path": "e:\\music\\Thousand Foot Krutch - War Of Change.mp3",
+      "file_name": "Thousand Foot Krutch - War Of Change.mp3",
+      "title": "Thousand Foot Krutch - War Of Change",
+      "size": 9421771
+    },
+    {
+      "file_path": "e:\\music\\UPLIFT SPICE - オメガリズム.MP3",
+      "file_name": "UPLIFT SPICE - オメガリズム.MP3",
+      "title": "UPLIFT SPICE - オメガリズム.MP3",
+      "size": 7782881
+    },
+    {
+      "file_path": "e:\\music\\UPLIFT SPICE - カノジョ.mp3",
+      "file_name": "UPLIFT SPICE - カノジョ.mp3",
+      "title": "UPLIFT SPICE - カノジョ",
+      "size": 8358772
+    },
+    {
+      "file_path": "e:\\music\\W-B-X ~W-Boiled Extreme~-上木彩矢.flac",
+      "file_name": "W-B-X ~W-Boiled Extreme~-上木彩矢.flac",
+      "title": "W-B-X ~W-Boiled Extreme~-上木彩矢",
+      "size": 26485588
+    },
+    {
+      "file_path": "e:\\music\\When We Stand Together-Nickelback.flac",
+      "file_name": "When We Stand Together-Nickelback.flac",
+      "title": "When We Stand Together-Nickelback",
+      "size": 26323346
+    },
+    {
+      "file_path": "e:\\music\\YuNi - 命に嫌われている。.flac",
+      "file_name": "YuNi - 命に嫌われている。.flac",
+      "title": "YuNi - 命に嫌われている。",
+      "size": 43453649
+    },
+    {
+      "file_path": "e:\\music\\YuNi - 妄想感傷代償連盟.flac",
+      "file_name": "YuNi - 妄想感傷代償連盟.flac",
+      "title": "YuNi - 妄想感傷代償連盟",
+      "size": 45746747
+    },
+    {
+      "file_path": "e:\\music\\Zayde Wølf - Gladiator.mp3",
+      "file_name": "Zayde Wølf - Gladiator.mp3",
+      "title": "Zayde Wølf - Gladiator",
+      "size": 7838428
+    },
+    {
+      "file_path": "e:\\music\\amazarashi - さよならごっこ.FLAC",
+      "file_name": "amazarashi - さよならごっこ.FLAC",
+      "title": "amazarashi - さよならごっこ.FLAC",
+      "size": 31958893
+    },
+    {
+      "file_path": "e:\\music\\amazarashi - リビングデッド.mp3",
+      "file_name": "amazarashi - リビングデッド.mp3",
+      "title": "amazarashi - リビングデッド",
+      "size": 11863320
+    },
+    {
+      "file_path": "e:\\music\\amazarashi - 僕が死のうと思ったのは.flac",
+      "file_name": "amazarashi - 僕が死のうと思ったのは.flac",
+      "title": "amazarashi - 僕が死のうと思ったのは",
+      "size": 35839549
+    },
+    {
+      "file_path": "e:\\music\\amazarashi - 空っぽの空に潰される.mp3",
+      "file_name": "amazarashi - 空っぽの空に潰される.mp3",
+      "title": "amazarashi - 空っぽの空に潰される",
+      "size": 13794384
+    },
+    {
+      "file_path": "e:\\music\\amazarashi - 風に流離い.mp3",
+      "file_name": "amazarashi - 風に流離い.mp3",
+      "title": "amazarashi - 風に流離い",
+      "size": 12925162
+    },
+    {
+      "file_path": "e:\\music\\gnash Olivia O'Brien - i hate u, i love u.mp3",
+      "file_name": "gnash Olivia O'Brien - i hate u, i love u.mp3",
+      "title": "gnash Olivia O'Brien - i hate u, i love u",
+      "size": 9226619
+    },
+    {
+      "file_path": "e:\\music\\illion - AIWAGUMA.FLAC",
+      "file_name": "illion - AIWAGUMA.FLAC",
+      "title": "illion - AIWAGUMA.FLAC",
+      "size": 27161205
+    },
+    {
+      "file_path": "e:\\music\\illion - GASSHOW.FLAC",
+      "file_name": "illion - GASSHOW.FLAC",
+      "title": "illion - GASSHOW.FLAC",
+      "size": 21147202
+    },
+    {
+      "file_path": "e:\\music\\プラネタリウム(电视剧《花样男子》插曲)-大塚愛.flac",
+      "file_name": "プラネタリウム(电视剧《花样男子》插曲)-大塚愛.flac",
+      "title": "プラネタリウム(电视剧《花样男子》插曲)-大塚愛",
+      "size": 35648048
+    },
+    {
+      "file_path": "e:\\music\\ベリーグッドマンMUTSUKI-Pain, Pain Go Away.mp3",
+      "file_name": "ベリーグッドマンMUTSUKI-Pain, Pain Go Away.mp3",
+      "title": "ベリーグッドマンMUTSUKI-Pain, Pain Go Away",
+      "size": 8821403
+    },
+    {
+      "file_path": "e:\\music\\七里香-周杰伦-Initial J.flac",
+      "file_name": "七里香-周杰伦-Initial J.flac",
+      "title": "七里香-周杰伦-Initial J",
+      "size": 37300674
+    },
+    {
+      "file_path": "e:\\music\\东爱-后弦-古·玩.mp3",
+      "file_name": "东爱-后弦-古·玩.mp3",
+      "title": "东爱-后弦-古·玩",
+      "size": 9656867
+    },
+    {
+      "file_path": "e:\\music\\东风破-周杰伦-星座圣典.flac",
+      "file_name": "东风破-周杰伦-星座圣典.flac",
+      "title": "东风破-周杰伦-星座圣典",
+      "size": 35136507
+    },
+    {
+      "file_path": "e:\\music\\久保ユリカ 水瀬いのり - More One Night.flac",
+      "file_name": "久保ユリカ 水瀬いのり - More One Night.flac",
+      "title": "久保ユリカ 水瀬いのり - More One Night",
+      "size": 29812580
+    },
+    {
+      "file_path": "e:\\music\\久保ユリカ 水瀬いのり - 雨だれの歌.flac",
+      "file_name": "久保ユリカ 水瀬いのり - 雨だれの歌.flac",
+      "title": "久保ユリカ 水瀬いのり - 雨だれの歌",
+      "size": 31872100
+    },
+    {
+      "file_path": "e:\\music\\于心有愧-陈奕迅.flac",
+      "file_name": "于心有愧-陈奕迅.flac",
+      "title": "于心有愧-陈奕迅",
+      "size": 24938321
+    },
+    {
+      "file_path": "e:\\music\\云の泣 三无MarBlue 嘟比Dubi 曾溢 匀子 - 恋音と雨空（cover AAA）.mp3",
+      "file_name": "云の泣 三无MarBlue 嘟比Dubi 曾溢 匀子 - 恋音と雨空（cover AAA）.mp3",
+      "title": "云の泣 三无MarBlue 嘟比Dubi 曾溢 匀子 - 恋音と雨空（cover AAA）",
+      "size": 12900911
+    },
+    {
+      "file_path": "e:\\music\\人来人往-陈奕迅.flac",
+      "file_name": "人来人往-陈奕迅.flac",
+      "title": "人来人往-陈奕迅",
+      "size": 20941520
+    },
+    {
+      "file_path": "e:\\music\\今天只做一件事-陈奕迅.mp3",
+      "file_name": "今天只做一件事-陈奕迅.mp3",
+      "title": "今天只做一件事-陈奕迅",
+      "size": 9280205
+    },
+    {
+      "file_path": "e:\\music\\今野宏美 - 三十路岬.mp3",
+      "file_name": "今野宏美 - 三十路岬.mp3",
+      "title": "今野宏美 - 三十路岬",
+      "size": 6411310
+    },
+    {
+      "file_path": "e:\\music\\任贤齐 - 兄弟.flac",
+      "file_name": "任贤齐 - 兄弟.flac",
+      "title": "任贤齐 - 兄弟",
+      "size": 36420173
+    },
+    {
+      "file_path": "e:\\music\\任贤齐 - 天涯.flac",
+      "file_name": "任贤齐 - 天涯.flac",
+      "title": "任贤齐 - 天涯",
+      "size": 40864982
+    },
+    {
+      "file_path": "e:\\music\\任贤齐 杨千嬅 - 花好月圆夜.flac",
+      "file_name": "任贤齐 杨千嬅 - 花好月圆夜.flac",
+      "title": "任贤齐 杨千嬅 - 花好月圆夜",
+      "size": 15844630
+    },
+    {
+      "file_path": "e:\\music\\何崇志 - 仲有最靓既猪腩肉(足肉版)(Bonus Track).mp3",
+      "file_name": "何崇志 - 仲有最靓既猪腩肉(足肉版)(Bonus Track).mp3",
+      "title": "何崇志 - 仲有最靓既猪腩肉(足肉版)(Bonus Track)",
+      "size": 1331163
+    },
+    {
+      "file_path": "e:\\music\\刘德华 - 17岁(粤).mp3",
+      "file_name": "刘德华 - 17岁(粤).mp3",
+      "title": "刘德华 - 17岁(粤)",
+      "size": 12189066
+    },
+    {
+      "file_path": "e:\\music\\刘德华 - 我恨我痴心.mp3",
+      "file_name": "刘德华 - 我恨我痴心.mp3",
+      "title": "刘德华 - 我恨我痴心",
+      "size": 10127060
+    },
+    {
+      "file_path": "e:\\music\\刘雅丽 - 风继续吹.flac",
+      "file_name": "刘雅丽 - 风继续吹.flac",
+      "title": "刘雅丽 - 风继续吹",
+      "size": 30447332
+    },
+    {
+      "file_path": "e:\\music\\勇-杨千嬅.mp3",
+      "file_name": "勇-杨千嬅.mp3",
+      "title": "勇-杨千嬅",
+      "size": 8804794
+    },
+    {
+      "file_path": "e:\\music\\区瑞强 - 小城大事.mp3",
+      "file_name": "区瑞强 - 小城大事.mp3",
+      "title": "区瑞强 - 小城大事",
+      "size": 10146253
+    },
+    {
+      "file_path": "e:\\music\\区瑞强 - 陌上归人.mp3",
+      "file_name": "区瑞强 - 陌上归人.mp3",
+      "title": "区瑞强 - 陌上归人",
+      "size": 7926172
+    },
+    {
+      "file_path": "e:\\music\\十有八九-后弦-古·玩.mp3",
+      "file_name": "十有八九-后弦-古·玩.mp3",
+      "title": "十有八九-后弦-古·玩",
+      "size": 10696378
+    },
+    {
+      "file_path": "e:\\music\\千百度-许嵩-苏格拉没有底.flac",
+      "file_name": "千百度-许嵩-苏格拉没有底.flac",
+      "title": "千百度-许嵩-苏格拉没有底",
+      "size": 24652875
+    },
+    {
+      "file_path": "e:\\music\\半城烟沙(网游《天龙八部2》主题曲)-许嵩-半城烟沙.flac",
+      "file_name": "半城烟沙(网游《天龙八部2》主题曲)-许嵩-半城烟沙.flac",
+      "title": "半城烟沙(网游《天龙八部2》主题曲)-许嵩-半城烟沙",
+      "size": 31549026
+    },
+    {
+      "file_path": "e:\\music\\单车恋人-后弦-9公主.mp3",
+      "file_name": "单车恋人-后弦-9公主.mp3",
+      "title": "单车恋人-后弦-9公主",
+      "size": 10017539
+    },
+    {
+      "file_path": "e:\\music\\卢沟晓月(央视2015全球中文音乐榜上榜)-后弦-2015全球中文音乐榜上榜第三十期.flac",
+      "file_name": "卢沟晓月(央视2015全球中文音乐榜上榜)-后弦-2015全球中文音乐榜上榜第三十期.flac",
+      "title": "卢沟晓月(央视2015全球中文音乐榜上榜)-后弦-2015全球中文音乐榜上榜第三十期",
+      "size": 22545668
+    },
+    {
+      "file_path": "e:\\music\\合久必婚-陈逸璇李克勤.flac",
+      "file_name": "合久必婚-陈逸璇李克勤.flac",
+      "title": "合久必婚-陈逸璇李克勤",
+      "size": 23629077
+    },
+    {
+      "file_path": "e:\\music\\吴雨霏 - 吴哥窟.mp3",
+      "file_name": "吴雨霏 - 吴哥窟.mp3",
+      "title": "吴雨霏 - 吴哥窟",
+      "size": 9131222
+    },
+    {
+      "file_path": "e:\\music\\周传雄 - 黄昏.mp3",
+      "file_name": "周传雄 - 黄昏.mp3",
+      "title": "周传雄 - 黄昏",
+      "size": 13811216
+    },
+    {
+      "file_path": "e:\\music\\周华健 - 刀剑如梦.flac",
+      "file_name": "周华健 - 刀剑如梦.flac",
+      "title": "周华健 - 刀剑如梦",
+      "size": 23102840
+    },
+    {
+      "file_path": "e:\\music\\周华健 齐豫 - 神话情话 (粤).mp3",
+      "file_name": "周华健 齐豫 - 神话情话 (粤).mp3",
+      "title": "周华健 齐豫 - 神话情话 (粤)",
+      "size": 10741640
+    },
+    {
+      "file_path": "e:\\music\\周华健-刀剑若梦.flac",
+      "file_name": "周华健-刀剑若梦.flac",
+      "title": "周华健-刀剑若梦",
+      "size": 24422363
+    },
+    {
+      "file_path": "e:\\music\\周华健-花心.flac",
+      "file_name": "周华健-花心.flac",
+      "title": "周华健-花心",
+      "size": 27740854
+    },
+    {
+      "file_path": "e:\\music\\周华健-难念的经 (电视剧《天龙八部(黄日华版)》主题曲).flac",
+      "file_name": "周华健-难念的经 (电视剧《天龙八部(黄日华版)》主题曲).flac",
+      "title": "周华健-难念的经 (电视剧《天龙八部(黄日华版)》主题曲)",
+      "size": 34080186
+    },
+    {
+      "file_path": "e:\\music\\周慧敏-痴心换情深.flac",
+      "file_name": "周慧敏-痴心换情深.flac",
+      "title": "周慧敏-痴心换情深",
+      "size": 55834918
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-一路向北 (电影《头文字Ｄ》插曲).flac",
+      "file_name": "周杰伦-一路向北 (电影《头文字Ｄ》插曲).flac",
+      "title": "周杰伦-一路向北 (电影《头文字Ｄ》插曲)",
+      "size": 65734306
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-乌克丽丽.flac",
+      "file_name": "周杰伦-乌克丽丽.flac",
+      "title": "周杰伦-乌克丽丽",
+      "size": 38873269
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-公公偏头痛.flac",
+      "file_name": "周杰伦-公公偏头痛.flac",
+      "title": "周杰伦-公公偏头痛",
+      "size": 38610806
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-兰亭序.flac",
+      "file_name": "周杰伦-兰亭序.flac",
+      "title": "周杰伦-兰亭序",
+      "size": 54310673
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-双截棍(电影《青蜂侠》片尾曲).flac",
+      "file_name": "周杰伦-双截棍(电影《青蜂侠》片尾曲).flac",
+      "title": "周杰伦-双截棍(电影《青蜂侠》片尾曲)",
+      "size": 44082411
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-发如雪.flac",
+      "file_name": "周杰伦-发如雪.flac",
+      "title": "周杰伦-发如雪",
+      "size": 67220510
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-听妈妈的话.flac",
+      "file_name": "周杰伦-听妈妈的话.flac",
+      "title": "周杰伦-听妈妈的话",
+      "size": 59051104
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-周大侠(电影《大灌篮》主题曲).flac",
+      "file_name": "周杰伦-周大侠(电影《大灌篮》主题曲).flac",
+      "title": "周杰伦-周大侠(电影《大灌篮》主题曲)",
+      "size": 31252016
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-时光机.flac",
+      "file_name": "周杰伦-时光机.flac",
+      "title": "周杰伦-时光机",
+      "size": 70617762
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-星晴.flac",
+      "file_name": "周杰伦-星晴.flac",
+      "title": "周杰伦-星晴",
+      "size": 54328035
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-晴天.flac",
+      "file_name": "周杰伦-晴天.flac",
+      "title": "周杰伦-晴天",
+      "size": 59119546
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-本草纲目.flac",
+      "file_name": "周杰伦-本草纲目.flac",
+      "title": "周杰伦-本草纲目",
+      "size": 46794906
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-烟花易冷.flac",
+      "file_name": "周杰伦-烟花易冷.flac",
+      "title": "周杰伦-烟花易冷",
+      "size": 55399406
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-爱在西元前.flac",
+      "file_name": "周杰伦-爱在西元前.flac",
+      "title": "周杰伦-爱在西元前",
+      "size": 53645396
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-牛仔很忙.flac",
+      "file_name": "周杰伦-牛仔很忙.flac",
+      "title": "周杰伦-牛仔很忙",
+      "size": 36740854
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-甜甜的.flac",
+      "file_name": "周杰伦-甜甜的.flac",
+      "title": "周杰伦-甜甜的",
+      "size": 55173621
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-皮影戏.flac",
+      "file_name": "周杰伦-皮影戏.flac",
+      "title": "周杰伦-皮影戏",
+      "size": 47327053
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-稻香.flac",
+      "file_name": "周杰伦-稻香.flac",
+      "title": "周杰伦-稻香",
+      "size": 49172575
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-简单爱.flac",
+      "file_name": "周杰伦-简单爱.flac",
+      "title": "周杰伦-简单爱",
+      "size": 32608611
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-给我一首歌的时间.flac",
+      "file_name": "周杰伦-给我一首歌的时间.flac",
+      "title": "周杰伦-给我一首歌的时间",
+      "size": 57979614
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-菊花台(电影《满城尽带黄金甲》片尾曲).flac",
+      "file_name": "周杰伦-菊花台(电影《满城尽带黄金甲》片尾曲).flac",
+      "title": "周杰伦-菊花台(电影《满城尽带黄金甲》片尾曲)",
+      "size": 61767272
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-说好的幸福呢.flac",
+      "file_name": "周杰伦-说好的幸福呢.flac",
+      "title": "周杰伦-说好的幸福呢",
+      "size": 53309584
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-迷迭香.flac",
+      "file_name": "周杰伦-迷迭香.flac",
+      "title": "周杰伦-迷迭香",
+      "size": 55511615
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-阳光宅男.flac",
+      "file_name": "周杰伦-阳光宅男.flac",
+      "title": "周杰伦-阳光宅男",
+      "size": 50888656
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-霍元甲 (电影《霍元甲》主题曲).flac",
+      "file_name": "周杰伦-霍元甲 (电影《霍元甲》主题曲).flac",
+      "title": "周杰伦-霍元甲 (电影《霍元甲》主题曲)",
+      "size": 63000947
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-青花瓷.flac",
+      "file_name": "周杰伦-青花瓷.flac",
+      "title": "周杰伦-青花瓷",
+      "size": 50761187
+    },
+    {
+      "file_path": "e:\\music\\周杰伦-魔术先生.flac",
+      "file_name": "周杰伦-魔术先生.flac",
+      "title": "周杰伦-魔术先生",
+      "size": 48823186
+    },
+    {
+      "file_path": "e:\\music\\周杰伦费玉清-千里之外.flac",
+      "file_name": "周杰伦费玉清-千里之外.flac",
+      "title": "周杰伦费玉清-千里之外",
+      "size": 55200968
+    },
+    {
+      "file_path": "e:\\music\\哥德巴赫猜-后弦-古·玩.mp3",
+      "file_name": "哥德巴赫猜-后弦-古·玩.mp3",
+      "title": "哥德巴赫猜-后弦-古·玩",
+      "size": 8436144
+    },
+    {
+      "file_path": "e:\\music\\唐宋元明清-后弦-东方不败.mp3",
+      "file_name": "唐宋元明清-后弦-东方不败.mp3",
+      "title": "唐宋元明清-后弦-东方不败",
+      "size": 11550573
+    },
+    {
+      "file_path": "e:\\music\\坂部剛 - 天空寺タケル テーマ.flac",
+      "file_name": "坂部剛 - 天空寺タケル テーマ.flac",
+      "title": "坂部剛 - 天空寺タケル テーマ",
+      "size": 23318072
+    },
+    {
+      "file_path": "e:\\music\\城府-许嵩-自定义.flac",
+      "file_name": "城府-许嵩-自定义.flac",
+      "title": "城府-许嵩-自定义",
+      "size": 22403848
+    },
+    {
+      "file_path": "e:\\music\\夜曲-周杰伦-十一月的萧邦.flac",
+      "file_name": "夜曲-周杰伦-十一月的萧邦.flac",
+      "title": "夜曲-周杰伦-十一月的萧邦",
+      "size": 26965598
+    },
+    {
+      "file_path": "e:\\music\\大塚愛 - プラネタリウム.flac",
+      "file_name": "大塚愛 - プラネタリウム.flac",
+      "title": "大塚愛 - プラネタリウム",
+      "size": 35754027
+    },
+    {
+      "file_path": "e:\\music\\天然呆-后弦-天然呆.flac",
+      "file_name": "天然呆-后弦-天然呆.flac",
+      "title": "天然呆-后弦-天然呆",
+      "size": 24758493
+    },
+    {
+      "file_path": "e:\\music\\天龙八部之宿敌-许嵩-《天龙八部之宿敌》游戏原声.flac",
+      "file_name": "天龙八部之宿敌-许嵩-《天龙八部之宿敌》游戏原声.flac",
+      "title": "天龙八部之宿敌-许嵩-《天龙八部之宿敌》游戏原声",
+      "size": 29131122
+    },
+    {
+      "file_path": "e:\\music\\女王蜂 - 火炎.flac",
+      "file_name": "女王蜂 - 火炎.flac",
+      "title": "女王蜂 - 火炎",
+      "size": 25664212
+    },
+    {
+      "file_path": "e:\\music\\宮内タカユキ - 仮面ライダーBLACK RX.mp3",
+      "file_name": "宮内タカユキ - 仮面ライダーBLACK RX.mp3",
+      "title": "宮内タカユキ - 仮面ライダーBLACK RX",
+      "size": 7869652
+    },
+    {
+      "file_path": "e:\\music\\小白-后弦-古·玩.mp3",
+      "file_name": "小白-后弦-古·玩.mp3",
+      "title": "小白-后弦-古·玩",
+      "size": 9949972
+    },
+    {
+      "file_path": "e:\\music\\川嶋あい - それが大事.flac",
+      "file_name": "川嶋あい - それが大事.flac",
+      "title": "川嶋あい - それが大事",
+      "size": 37234432
+    },
+    {
+      "file_path": "e:\\music\\平野綾 - CHA-LA HEAD-CHA-LA.mp3",
+      "file_name": "平野綾 - CHA-LA HEAD-CHA-LA.mp3",
+      "title": "平野綾 - CHA-LA HEAD-CHA-LA",
+      "size": 8516255
+    },
+    {
+      "file_path": "e:\\music\\平野綾 - 木枯しに抱かれて.mp3",
+      "file_name": "平野綾 - 木枯しに抱かれて.mp3",
+      "title": "平野綾 - 木枯しに抱かれて",
+      "size": 9414322
+    },
+    {
+      "file_path": "e:\\music\\幻听-许嵩-梦游计.flac",
+      "file_name": "幻听-许嵩-梦游计.flac",
+      "title": "幻听-许嵩-梦游计",
+      "size": 26694996
+    },
+    {
+      "file_path": "e:\\music\\庐州月-许嵩-寻雾启示.flac",
+      "file_name": "庐州月-许嵩-寻雾启示.flac",
+      "title": "庐州月-许嵩-寻雾启示",
+      "size": 29533860
+    },
+    {
+      "file_path": "e:\\music\\张卫健 - 把酒狂歌.mp3",
+      "file_name": "张卫健 - 把酒狂歌.mp3",
+      "title": "张卫健 - 把酒狂歌",
+      "size": 9310134
+    },
+    {
+      "file_path": "e:\\music\\张学友-坚持的意义(有线电视及香港开电视2020东京奥运主题曲).flac",
+      "file_name": "张学友-坚持的意义(有线电视及香港开电视2020东京奥运主题曲).flac",
+      "title": "张学友-坚持的意义(有线电视及香港开电视2020东京奥运主题曲)",
+      "size": 42545778
+    },
+    {
+      "file_path": "e:\\music\\张学友-夕阳醉了.flac",
+      "file_name": "张学友-夕阳醉了.flac",
+      "title": "张学友-夕阳醉了",
+      "size": 34986822
+    },
+    {
+      "file_path": "e:\\music\\张学友-月半弯(电视剧《痴心的我》插曲).flac",
+      "file_name": "张学友-月半弯(电视剧《痴心的我》插曲).flac",
+      "title": "张学友-月半弯(电视剧《痴心的我》插曲)",
+      "size": 44654750
+    },
+    {
+      "file_path": "e:\\music\\张学友-烦恼歌.mp3",
+      "file_name": "张学友-烦恼歌.mp3",
+      "title": "张学友-烦恼歌",
+      "size": 10472728
+    },
+    {
+      "file_path": "e:\\music\\张学友-道道道 (电影《倩女幽魂Ⅲ道道道》主题曲).flac",
+      "file_name": "张学友-道道道 (电影《倩女幽魂Ⅲ道道道》主题曲).flac",
+      "title": "张学友-道道道 (电影《倩女幽魂Ⅲ道道道》主题曲)",
+      "size": 18064998
+    },
+    {
+      "file_path": "e:\\music\\张学友-遥远的她.flac",
+      "file_name": "张学友-遥远的她.flac",
+      "title": "张学友-遥远的她",
+      "size": 27529824
+    },
+    {
+      "file_path": "e:\\music\\张玮伽 - 怎么说不爱你.flac",
+      "file_name": "张玮伽 - 怎么说不爱你.flac",
+      "title": "张玮伽 - 怎么说不爱你",
+      "size": 30417700
+    },
+    {
+      "file_path": "e:\\music\\张玮伽 - 春天里.mp3",
+      "file_name": "张玮伽 - 春天里.mp3",
+      "title": "张玮伽 - 春天里",
+      "size": 12345783
+    },
+    {
+      "file_path": "e:\\music\\张玮伽 - 模特.mp3",
+      "file_name": "张玮伽 - 模特.mp3",
+      "title": "张玮伽 - 模特",
+      "size": 12212608
+    },
+    {
+      "file_path": "e:\\music\\张玮伽 - 笑忘书.mp3",
+      "file_name": "张玮伽 - 笑忘书.mp3",
+      "title": "张玮伽 - 笑忘书",
+      "size": 10405402
+    },
+    {
+      "file_path": "e:\\music\\徐小凤 - 风的季节.mp3",
+      "file_name": "徐小凤 - 风的季节.mp3",
+      "title": "徐小凤 - 风的季节",
+      "size": 10254439
+    },
+    {
+      "file_path": "e:\\music\\徐薇 - 逍遥叹－徐薇（Cover 胡歌）.mp3",
+      "file_name": "徐薇 - 逍遥叹－徐薇（Cover 胡歌）.mp3",
+      "title": "徐薇 - 逍遥叹－徐薇（Cover 胡歌）",
+      "size": 12658984
+    },
+    {
+      "file_path": "e:\\music\\情书不包邮-后弦-情书不包邮.flac",
+      "file_name": "情书不包邮-后弦-情书不包邮.flac",
+      "title": "情书不包邮-后弦-情书不包邮",
+      "size": 27781255
+    },
+    {
+      "file_path": "e:\\music\\断桥残雪-许嵩-许嵩NO.1.flac",
+      "file_name": "断桥残雪-许嵩-许嵩NO.1.flac",
+      "title": "断桥残雪-许嵩-许嵩NO.1",
+      "size": 24475433
+    },
+    {
+      "file_path": "e:\\music\\昆明湖-后弦-9公主.mp3",
+      "file_name": "昆明湖-后弦-9公主.mp3",
+      "title": "昆明湖-后弦-9公主",
+      "size": 11878615
+    },
+    {
+      "file_path": "e:\\music\\星尘 - 【星尘】彼方.mp3",
+      "file_name": "星尘 - 【星尘】彼方.mp3",
+      "title": "星尘 - 【星尘】彼方",
+      "size": 11345954
+    },
+    {
+      "file_path": "e:\\music\\有何不可-许嵩-自定义.flac",
+      "file_name": "有何不可-许嵩-自定义.flac",
+      "title": "有何不可-许嵩-自定义",
+      "size": 28708461
+    },
+    {
+      "file_path": "e:\\music\\李克勤 - 先赌为快.mp3",
+      "file_name": "李克勤 - 先赌为快.mp3",
+      "title": "李克勤 - 先赌为快",
+      "size": 8424276
+    },
+    {
+      "file_path": "e:\\music\\李克勤 - 给自己的情书.mp3",
+      "file_name": "李克勤 - 给自己的情书.mp3",
+      "title": "李克勤 - 给自己的情书",
+      "size": 11233980
+    },
+    {
+      "file_path": "e:\\music\\杨千嬅 - 再见二丁目.flac",
+      "file_name": "杨千嬅 - 再见二丁目.flac",
+      "title": "杨千嬅 - 再见二丁目",
+      "size": 26504101
+    },
+    {
+      "file_path": "e:\\music\\杨千嬅 - 处处吻.MP3",
+      "file_name": "杨千嬅 - 处处吻.MP3",
+      "title": "杨千嬅 - 处处吻.MP3",
+      "size": 8369962
+    },
+    {
+      "file_path": "e:\\music\\杨千嬅 - 少女的祈祷.flac",
+      "file_name": "杨千嬅 - 少女的祈祷.flac",
+      "title": "杨千嬅 - 少女的祈祷",
+      "size": 23581645
+    },
+    {
+      "file_path": "e:\\music\\林子祥 - 十分十二寸.mp3",
+      "file_name": "林子祥 - 十分十二寸.mp3",
+      "title": "林子祥 - 十分十二寸",
+      "size": 23543236
+    },
+    {
+      "file_path": "e:\\music\\林子祥 - 在水中央.flac",
+      "file_name": "林子祥 - 在水中央.flac",
+      "title": "林子祥 - 在水中央",
+      "size": 21700076
+    },
+    {
+      "file_path": "e:\\music\\林子祥 - 真的汉子.mp3",
+      "file_name": "林子祥 - 真的汉子.mp3",
+      "title": "林子祥 - 真的汉子",
+      "size": 11445322
+    },
+    {
+      "file_path": "e:\\music\\林志炫 - 凤凰花开的路口.mp3",
+      "file_name": "林志炫 - 凤凰花开的路口.mp3",
+      "title": "林志炫 - 凤凰花开的路口",
+      "size": 10305248
+    },
+    {
+      "file_path": "e:\\music\\桥段-后弦-古·玩.flac",
+      "file_name": "桥段-后弦-古·玩.flac",
+      "title": "桥段-后弦-古·玩",
+      "size": 31878089
+    },
+    {
+      "file_path": "e:\\music\\梅艳芳 张学友 - 相爱很难(电影”男人四十”歌曲).mp3",
+      "file_name": "梅艳芳 张学友 - 相爱很难(电影”男人四十”歌曲).mp3",
+      "title": "梅艳芳 张学友 - 相爱很难(电影”男人四十”歌曲)",
+      "size": 9305232
+    },
+    {
+      "file_path": "e:\\music\\欧阳梦溪 - 透明的花.mp3",
+      "file_name": "欧阳梦溪 - 透明的花.mp3",
+      "title": "欧阳梦溪 - 透明的花",
+      "size": 10966244
+    },
+    {
+      "file_path": "e:\\music\\氣志團 - 我ら思う、故に我ら在り.flac",
+      "file_name": "氣志團 - 我ら思う、故に我ら在り.flac",
+      "title": "氣志團 - 我ら思う、故に我ら在り",
+      "size": 26950395
+    },
+    {
+      "file_path": "e:\\music\\水瀬いのり 久保ユリカ - 動く、動く.flac",
+      "file_name": "水瀬いのり 久保ユリカ - 動く、動く.flac",
+      "title": "水瀬いのり 久保ユリカ - 動く、動く",
+      "size": 36068325
+    },
+    {
+      "file_path": "e:\\music\\沈丹 - 石头记.mp3",
+      "file_name": "沈丹 - 石头记.mp3",
+      "title": "沈丹 - 石头记",
+      "size": 11512262
+    },
+    {
+      "file_path": "e:\\music\\洛天依 - 仙剑赋.mp3",
+      "file_name": "洛天依 - 仙剑赋.mp3",
+      "title": "洛天依 - 仙剑赋",
+      "size": 4233549
+    },
+    {
+      "file_path": "e:\\music\\洛天依 - 仙居谣.mp3",
+      "file_name": "洛天依 - 仙居谣.mp3",
+      "title": "洛天依 - 仙居谣",
+      "size": 12729379
+    },
+    {
+      "file_path": "e:\\music\\洛天依 - 青楼梦.mp3",
+      "file_name": "洛天依 - 青楼梦.mp3",
+      "title": "洛天依 - 青楼梦",
+      "size": 6229957
+    },
+    {
+      "file_path": "e:\\music\\洛天依 言和 - 寒灯人.mp3",
+      "file_name": "洛天依 言和 - 寒灯人.mp3",
+      "title": "洛天依 言和 - 寒灯人",
+      "size": 10982127
+    },
+    {
+      "file_path": "e:\\music\\海口-后弦-东方不败.mp3",
+      "file_name": "海口-后弦-东方不败.mp3",
+      "title": "海口-后弦-东方不败",
+      "size": 12001859
+    },
+    {
+      "file_path": "e:\\music\\清明雨上-许嵩-自定义.flac",
+      "file_name": "清明雨上-许嵩-自定义.flac",
+      "title": "清明雨上-许嵩-自定义",
+      "size": 24175401
+    },
+    {
+      "file_path": "e:\\music\\渡部秀 三浦涼介 串田アキラ - OOO Combo Change Medley.flac",
+      "file_name": "渡部秀 三浦涼介 串田アキラ - OOO Combo Change Medley.flac",
+      "title": "渡部秀 三浦涼介 串田アキラ - OOO Combo Change Medley",
+      "size": 47782593
+    },
+    {
+      "file_path": "e:\\music\\灰色头像-许嵩-寻雾启示.flac",
+      "file_name": "灰色头像-许嵩-寻雾启示.flac",
+      "title": "灰色头像-许嵩-寻雾启示",
+      "size": 32870495
+    },
+    {
+      "file_path": "e:\\music\\爱妃-后弦-爱妃.flac",
+      "file_name": "爱妃-后弦-爱妃.flac",
+      "title": "爱妃-后弦-爱妃",
+      "size": 29176618
+    },
+    {
+      "file_path": "e:\\music\\玫瑰花的葬礼-许嵩-V.mp3",
+      "file_name": "玫瑰花的葬礼-许嵩-V.mp3",
+      "title": "玫瑰花的葬礼-许嵩-V",
+      "size": 10405123
+    },
+    {
+      "file_path": "e:\\music\\盛夏的果实-莫文蔚.flac",
+      "file_name": "盛夏的果实-莫文蔚.flac",
+      "title": "盛夏的果实-莫文蔚",
+      "size": 27945926
+    },
+    {
+      "file_path": "e:\\music\\祖娅纳惜 - マインドブラック（Mind Brand）（Cover：初音ミク）.mp3",
+      "file_name": "祖娅纳惜 - マインドブラック（Mind Brand）（Cover：初音ミク）.mp3",
+      "title": "祖娅纳惜 - マインドブラック（Mind Brand）（Cover：初音ミク）",
+      "size": 10550510
+    },
+    {
+      "file_path": "e:\\music\\祖娅纳惜 - 胭脂扣（Cover 梅艳芳）.mp3",
+      "file_name": "祖娅纳惜 - 胭脂扣（Cover 梅艳芳）.mp3",
+      "title": "祖娅纳惜 - 胭脂扣（Cover 梅艳芳）",
+      "size": 6310886
+    },
+    {
+      "file_path": "e:\\music\\笔墨伺候-后弦-东方不败.mp3",
+      "file_name": "笔墨伺候-后弦-东方不败.mp3",
+      "title": "笔墨伺候-后弦-东方不败",
+      "size": 11372623
+    },
+    {
+      "file_path": "e:\\music\\简单爱-周杰伦-单曲发行.flac",
+      "file_name": "简单爱-周杰伦-单曲发行.flac",
+      "title": "简单爱-周杰伦-单曲发行",
+      "size": 32608608
+    },
+    {
+      "file_path": "e:\\music\\素颜-许嵩-何曼婷-素颜.flac",
+      "file_name": "素颜-许嵩-何曼婷-素颜.flac",
+      "title": "素颜-许嵩-何曼婷-素颜",
+      "size": 25059807
+    },
+    {
+      "file_path": "e:\\music\\给我一首歌的时间-张玮伽.flac",
+      "file_name": "给我一首歌的时间-张玮伽.flac",
+      "title": "给我一首歌的时间-张玮伽",
+      "size": 32478515
+    },
+    {
+      "file_path": "e:\\music\\群星 - 宝记正传 (Forever Mix).mp3",
+      "file_name": "群星 - 宝记正传 (Forever Mix).mp3",
+      "title": "群星 - 宝记正传 (Forever Mix)",
+      "size": 26009484
+    },
+    {
+      "file_path": "e:\\music\\群星 - 心肝宝贝.mp3",
+      "file_name": "群星 - 心肝宝贝.mp3",
+      "title": "群星 - 心肝宝贝",
+      "size": 2434662
+    },
+    {
+      "file_path": "e:\\music\\花甲-后弦-很有爱.flac",
+      "file_name": "花甲-后弦-很有爱.flac",
+      "title": "花甲-后弦-很有爱",
+      "size": 32091038
+    },
+    {
+      "file_path": "e:\\music\\苏州城外的微笑-后弦-很有爱.flac",
+      "file_name": "苏州城外的微笑-后弦-很有爱.flac",
+      "title": "苏州城外的微笑-后弦-很有爱",
+      "size": 27617814
+    },
+    {
+      "file_path": "e:\\music\\苏打绿 - 日光.mp3",
+      "file_name": "苏打绿 - 日光.mp3",
+      "title": "苏打绿 - 日光",
+      "size": 7858408
+    },
+    {
+      "file_path": "e:\\music\\苏打绿 陈嘉桦 - 你被写在我的歌里.flac",
+      "file_name": "苏打绿 陈嘉桦 - 你被写在我的歌里.flac",
+      "title": "苏打绿 陈嘉桦 - 你被写在我的歌里",
+      "size": 32526643
+    },
+    {
+      "file_path": "e:\\music\\英雄联盟 - Welcome to Planet Urf.mp3",
+      "file_name": "英雄联盟 - Welcome to Planet Urf.mp3",
+      "title": "英雄联盟 - Welcome to Planet Urf",
+      "size": 5471353
+    },
+    {
+      "file_path": "e:\\music\\西厢-后弦-古·玩.mp3",
+      "file_name": "西厢-后弦-古·玩.mp3",
+      "title": "西厢-后弦-古·玩",
+      "size": 10654292
+    },
+    {
+      "file_path": "e:\\music\\许冠杰 - 天才白痴梦.mp3",
+      "file_name": "许冠杰 - 天才白痴梦.mp3",
+      "title": "许冠杰 - 天才白痴梦",
+      "size": 6191670
+    },
+    {
+      "file_path": "e:\\music\\谢安琪 - 喜帖街.mp3",
+      "file_name": "谢安琪 - 喜帖街.mp3",
+      "title": "谢安琪 - 喜帖街",
+      "size": 8588803
+    },
+    {
+      "file_path": "e:\\music\\谢安琪 - 钟无艳.flac",
+      "file_name": "谢安琪 - 钟无艳.flac",
+      "title": "谢安琪 - 钟无艳",
+      "size": 27472211
+    },
+    {
+      "file_path": "e:\\music\\赤﨑千夏 戸松遥 豊崎愛生 - 輪!Moon!dass!cry!.flac",
+      "file_name": "赤﨑千夏 戸松遥 豊崎愛生 - 輪!Moon!dass!cry!.flac",
+      "title": "赤﨑千夏 戸松遥 豊崎愛生 - 輪!Moon!dass!cry!",
+      "size": 59095248
+    },
+    {
+      "file_path": "e:\\music\\赤﨑千夏 戸松遥 豊崎愛生 - 青春のリバーブ.flac",
+      "file_name": "赤﨑千夏 戸松遥 豊崎愛生 - 青春のリバーブ.flac",
+      "title": "赤﨑千夏 戸松遥 豊崎愛生 - 青春のリバーブ",
+      "size": 55967189
+    },
+    {
+      "file_path": "e:\\music\\赵京 - 齐天大圣.flac",
+      "file_name": "赵京 - 齐天大圣.flac",
+      "title": "赵京 - 齐天大圣",
+      "size": 34765608
+    },
+    {
+      "file_path": "e:\\music\\过桥-后弦-东方不败.mp3",
+      "file_name": "过桥-后弦-东方不败.mp3",
+      "title": "过桥-后弦-东方不败",
+      "size": 11499858
+    },
+    {
+      "file_path": "e:\\music\\逃学书童-后弦-古·玩.mp3",
+      "file_name": "逃学书童-后弦-古·玩.mp3",
+      "title": "逃学书童-后弦-古·玩",
+      "size": 11573410
+    },
+    {
+      "file_path": "e:\\music\\道道道 (电影《倩女幽魂Ⅲ道道道》主题曲)-张学友.flac",
+      "file_name": "道道道 (电影《倩女幽魂Ⅲ道道道》主题曲)-张学友.flac",
+      "title": "道道道 (电影《倩女幽魂Ⅲ道道道》主题曲)-张学友",
+      "size": 18064999
+    },
+    {
+      "file_path": "e:\\music\\郑中基-爱是最大权利.flac",
+      "file_name": "郑中基-爱是最大权利.flac",
+      "title": "郑中基-爱是最大权利",
+      "size": 29702004
+    },
+    {
+      "file_path": "e:\\music\\郑秀文 - 终身美丽.flac",
+      "file_name": "郑秀文 - 终身美丽.flac",
+      "title": "郑秀文 - 终身美丽",
+      "size": 21929062
+    },
+    {
+      "file_path": "e:\\music\\郑秀文 - 越吻越伤心.flac",
+      "file_name": "郑秀文 - 越吻越伤心.flac",
+      "title": "郑秀文 - 越吻越伤心",
+      "size": 29581119
+    },
+    {
+      "file_path": "e:\\music\\郑秀文-唉声叹气.flac",
+      "file_name": "郑秀文-唉声叹气.flac",
+      "title": "郑秀文-唉声叹气",
+      "size": 31322279
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 一丝不挂.flac",
+      "file_name": "陈奕迅 - 一丝不挂.flac",
+      "title": "陈奕迅 - 一丝不挂",
+      "size": 26328399
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 七百年后.flac",
+      "file_name": "陈奕迅 - 七百年后.flac",
+      "title": "陈奕迅 - 七百年后",
+      "size": 30822719
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 任我行.flac",
+      "file_name": "陈奕迅 - 任我行.flac",
+      "title": "陈奕迅 - 任我行",
+      "size": 27624202
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 失忆蝴蝶.flac",
+      "file_name": "陈奕迅 - 失忆蝴蝶.flac",
+      "title": "陈奕迅 - 失忆蝴蝶",
+      "size": 24254536
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 完.flac",
+      "file_name": "陈奕迅 - 完.flac",
+      "title": "陈奕迅 - 完",
+      "size": 21301953
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 沙龙.flac",
+      "file_name": "陈奕迅 - 沙龙.flac",
+      "title": "陈奕迅 - 沙龙",
+      "size": 32517768
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 白玫瑰.flac",
+      "file_name": "陈奕迅 - 白玫瑰.flac",
+      "title": "陈奕迅 - 白玫瑰",
+      "size": 24753190
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 粤语残片.flac",
+      "file_name": "陈奕迅 - 粤语残片.flac",
+      "title": "陈奕迅 - 粤语残片",
+      "size": 30716771
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 苦瓜.flac",
+      "file_name": "陈奕迅 - 苦瓜.flac",
+      "title": "陈奕迅 - 苦瓜",
+      "size": 28544416
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 落花流水.flac",
+      "file_name": "陈奕迅 - 落花流水.flac",
+      "title": "陈奕迅 - 落花流水",
+      "size": 26868188
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 葡萄成熟时.flac",
+      "file_name": "陈奕迅 - 葡萄成熟时.flac",
+      "title": "陈奕迅 - 葡萄成熟时",
+      "size": 32708381
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 裙下之臣.mp3",
+      "file_name": "陈奕迅 - 裙下之臣.mp3",
+      "title": "陈奕迅 - 裙下之臣",
+      "size": 10638398
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 阿牛.flac",
+      "file_name": "陈奕迅 - 阿牛.flac",
+      "title": "陈奕迅 - 阿牛",
+      "size": 21540774
+    },
+    {
+      "file_path": "e:\\music\\陈奕迅 - 阿猫阿狗.flac",
+      "file_name": "陈奕迅 - 阿猫阿狗.flac",
+      "title": "陈奕迅 - 阿猫阿狗",
+      "size": 26658854
+    },
+    {
+      "file_path": "e:\\music\\陈淑桦 - 笑红尘.mp3",
+      "file_name": "陈淑桦 - 笑红尘.mp3",
+      "title": "陈淑桦 - 笑红尘",
+      "size": 10478446
+    },
+    {
+      "file_path": "e:\\music\\雅俗共赏-许嵩-青年晚报.flac",
+      "file_name": "雅俗共赏-许嵩-青年晚报.flac",
+      "title": "雅俗共赏-许嵩-青年晚报",
+      "size": 28099232
+    },
+    {
+      "file_path": "e:\\music\\青山テルマ - そばにいるね.flac",
+      "file_name": "青山テルマ - そばにいるね.flac",
+      "title": "青山テルマ - そばにいるね",
+      "size": 36215255
+    },
+    {
+      "file_path": "e:\\music\\高橋優 - さくらのうた.mp3",
+      "file_name": "高橋優 - さくらのうた.mp3",
+      "title": "高橋優 - さくらのうた",
+      "size": 11479387
+    },
+    {
+      "file_path": "e:\\music\\黄霑 - 开心做出戏.mp3",
+      "file_name": "黄霑 - 开心做出戏.mp3",
+      "title": "黄霑 - 开心做出戏",
+      "size": 6806965
+    },
+    {
+      "file_path": "e:\\music\\黑板情书-后弦-黑板情书.flac",
+      "file_name": "黑板情书-后弦-黑板情书.flac",
+      "title": "黑板情书-后弦-黑板情书",
+      "size": 29515798
+    },
+    {
+      "file_path": "e:\\music\\＋α あるふぁきゅん。 - ECHO.mp3",
+      "file_name": "＋α あるふぁきゅん。 - ECHO.mp3",
+      "title": "＋α あるふぁきゅん。 - ECHO",
+      "size": 9995640
+    },
+    {
+      "file_path": "e:\\music\\＋α あるふぁきゅん。 - レッド・パージ!!!.mp3",
+      "file_name": "＋α あるふぁきゅん。 - レッド・パージ!!!.mp3",
+      "title": "＋α あるふぁきゅん。 - レッド・パージ!!!",
+      "size": 13940876
+    },
+    {
+      "file_path": "e:\\music\\＋α あるふぁきゅん。 - 東京テディベア.mp3",
+      "file_name": "＋α あるふぁきゅん。 - 東京テディベア.mp3",
+      "title": "＋α あるふぁきゅん。 - 東京テディベア",
+      "size": 7871558
+    }
+  ]
+}
