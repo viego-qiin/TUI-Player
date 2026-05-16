@@ -41,18 +41,18 @@ TUI-Player/
 
 ```bash
 # 构建
-go build -o tli-player ./cmd/player
+go build -o tui-player ./cmd
 
 # 运行
-go run ./cmd/player
+go run ./cmd
 
 # 测试（含覆盖率）
 go test -v -race -coverprofile=coverage.out ./...
 go tool cover -html=coverage.out
 
 # 交叉编译
-GOOS=windows GOARCH=amd64 go build -o tui-player.exe ./cmd/player
-GOOS=linux GOARCH=amd64 go build -o tui-player ./cmd/player
+GOOS=windows GOARCH=amd64 go build -o tui-player.exe ./cmd
+GOOS=linux GOARCH=amd64 go build -o tui-player ./cmd
 
 # 代码检查
 go vet ./...
